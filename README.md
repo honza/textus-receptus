@@ -17,7 +17,7 @@ edition of the Greek New Testament in various machine-readable formats.
 
 ```json
 {
-  "book_greek": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ",
+  "book_greek": "Πρὸς Ἑβραίους",
   "book_name": "Hebrews",
   "book_name_osis": "Heb",
   "book_name_short": "HEB",
