@@ -1,11 +1,11 @@
 # Textus Receptus
 
-We are pleased to announce the immediate availability of the Scrivener
+We are pleased to announce the immediate availability of the 1894 Scrivener
 edition of the Greek New Testament in various machine-readable formats.
 
 ## What exactly is available?
 
-- Scrivener text
+- 1894 text
 - Accented text
 - Full grammatical apparatus
 - Strong's tagging
